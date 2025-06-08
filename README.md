@@ -94,11 +94,11 @@ I'm always excited to work on new challenges and collaborate with passionate peo
 
 ## 🔗 Quick Links
 
-- [About](#about-me)
-- [Skills](#technical-skills)
-- [Projects](#featured-projects)
-- [Services](#services)
-- [Contact](#contact-me)
+- [About](https://yukthamukhi-portfolio.lovable.app/)
+- [Skills](https://yukthamukhi-portfolio.lovable.app/)
+- [Projects](https://yukthamukhi-portfolio.lovable.app/)
+- [Services](https://yukthamukhi-portfolio.lovable.app/)
+- [Contact](https://yukthamukhi-portfolio.lovable.app/)
 
 ---
 
